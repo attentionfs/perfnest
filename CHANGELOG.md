@@ -2,7 +2,7 @@
 
 All notable changes to Perfnest are documented in this file. Released
 sections mirror the notes on the
-[GitHub Releases page](https://github.com/Laaaaksh/perfnest/releases).
+[GitHub Releases page](https://github.com/attentionfs/perfnest/releases).
 Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
@@ -19,4 +19,4 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - An optional public, read-only dashboard per project.
 - Single-admin-password auth - no user accounts or SSO in v1.
 
-[Unreleased]: https://github.com/Laaaaksh/perfnest/commits/master
+[Unreleased]: https://github.com/attentionfs/perfnest/commits/master

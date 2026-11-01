@@ -7,11 +7,11 @@ $75–$1,500/month for. Scheduled and CI-triggered Lighthouse runs, Core Web Vit
 charts, and per-metric performance budgets that alert Slack (or email) the moment a deploy
 regresses — self-hosted, no per-seat fee, no real-user tracking script on your site.
 
-[![Star this repo](https://img.shields.io/github/stars/Laaaaksh/perfnest?style=for-the-badge&logo=github&label=star%20this%20repo&color=yellow)](https://github.com/Laaaaksh/perfnest/stargazers)
+[![Star this repo](https://img.shields.io/github/stars/attentionfs/perfnest?style=for-the-badge&logo=github&label=star%20this%20repo&color=yellow)](https://github.com/attentionfs/perfnest/stargazers)
 [![Built on Lighthouse](https://img.shields.io/badge/built_on-Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://github.com/GoogleChrome/lighthouse)
 
-[![CI](https://github.com/Laaaaksh/perfnest/actions/workflows/ci.yml/badge.svg)](https://github.com/Laaaaksh/perfnest/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/Laaaaksh/perfnest?color=green&display_name=tag)](https://github.com/Laaaaksh/perfnest/releases)
+[![CI](https://github.com/attentionfs/perfnest/actions/workflows/ci.yml/badge.svg)](https://github.com/attentionfs/perfnest/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/attentionfs/perfnest?color=green&display_name=tag)](https://github.com/attentionfs/perfnest/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-20+-339933?logo=node.js&logoColor=white)](package.json)
 [![Docker](https://img.shields.io/badge/deploy-docker%20compose-2496ED?logo=docker&logoColor=white)](#install)
@@ -60,7 +60,7 @@ Running from source instead of Docker also works, but you're then responsible fo
 ## Install
 
 ```bash
-git clone https://github.com/Laaaaksh/perfnest.git
+git clone https://github.com/attentionfs/perfnest.git
 cd perfnest
 cp .env.example .env   # set ADMIN_PASSWORD and AUTH_SECRET, at minimum
 docker compose up -d
@@ -156,7 +156,7 @@ Found a security issue? Please report it privately — see [SECURITY.md](SECURIT
 
 ## Star this repo
 
-If Perfnest saves you a Calibre or SpeedCurve invoice, [leave a star](https://github.com/Laaaaksh/perfnest/stargazers) — it helps other people find it.
+If Perfnest saves you a Calibre or SpeedCurve invoice, [leave a star](https://github.com/attentionfs/perfnest/stargazers) — it helps other people find it.
 
 <a href="https://www.star-history.com/?repos=laaaaksh%2Fperfnest&type=date&legend=top-left">
  <picture>
